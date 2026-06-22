@@ -2,7 +2,7 @@
 ## Information Technology Study Program
 ## Even Semester 2025/2026
 
-This repository contains student projects developed throughout the semester as part of project-based learning activities. Each project demonstrates the application of knowledge and skills acquired during the course and may include software applications, machine learning models, cloud-based solutions, IoT systems, cybersecurity projects, and other technology innovations.
+This repository contains student projects developed throughout the semester as part of project-based learning activities. Each project demonstrates the application of knowledge and skills acquired during the course and may include Web applications, machine learning models, IoT systems, and other technology innovations.
 
 ## 📋 Project List
 | No | Group Name | Project Title | Description | Google Drive |
