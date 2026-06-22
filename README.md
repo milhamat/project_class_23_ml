@@ -1,5 +1,5 @@
 # 🎓 Student Project Showcase
-## Information Technology Study Program
+## Information Technology Study Program of Universitas Internasional Batam
 ## Even Semester 2025/2026
 
 This repository contains student projects developed throughout the semester as part of project-based learning activities. Each project demonstrates the application of knowledge and skills acquired during the course and may include Web applications, machine learning models, IoT systems, and other technology innovations.
